@@ -10,7 +10,7 @@
     },
 
     "ServerScriptService": {
-      "Server": {
+      "Headremover": {
         "$path": "src/server"
       }
     },
